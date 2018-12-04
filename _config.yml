@@ -1,4 +1,6 @@
-remote_theme: loheer/midnight
+#remote_theme: loheer/midnight
+theme: minimal
+#theme: minima
 title: Loreno Heer
 description: [A short description of your site's purpose]
 show_downloads: "false"
